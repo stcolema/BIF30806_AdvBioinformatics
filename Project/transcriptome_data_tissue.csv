@@ -1,0 +1,32 @@
+﻿SRP,sample accession,run accession,title,cv,Tissue,library name,library layout,instrument model,sample alias,description,Run read count,Read length
+SRP005953,SRS173808,SRR122240,Catharanthus roseus Suspension Culture RNA-Seq (CRA_AB),Little Bright Eyes,Flower,CRA_AB,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AB,YE 0.3 mg/mL for 12h,31770232,35
+SRP035766 ,SRS543511,SRR1144633,Transcriptome analysis of the leafy flower transition of Catharanthus roseus induced by peanut witches'-boom phytoplasma infection: sample HF,Pacifica Punch Halo ,Flower,DDS,PAIRED - NOMINAL_LENGTH: 250,Illumina HiSeq 2000,HF,healthy_flowers,13784377,90
+SRP035766 ,SRS568057,SRR1144634,Transcriptome analysis of the leafy flower transition of Catharanthus roseus induced by peanut witches'-boom phytoplasma infection: sample S4,Pacifica Punch Halo ,Flower,DDS,PAIRED - NOMINAL_LENGTH: 250,Illumina HiSeq 2000,S4,Stage_4_PnWB_infected_leafy_flowers,13042424,90
+SRP041695,SRS602332,SRR1271859,GSM1379560: Flower,Prabal,Flower,NA,PAIRED - ,Illumina HiSeq 2000,GSM1379560,Flower,57546161,100
+SRP005953,SRS173824,SRR122256,Catharanthus roseus Hairy Root (RebH_F) RNA-Seq (CRA_AR),Little Bright Eyes,Hairy Root (Rebh_F),CRA_AR,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AR,Hairy Root (RebH_F),22075458,35
+SRP005953,SRS173823,SRR122255,Catharanthus roseus Hairy Root (TDCi) RNA-Seq (CRA_AQ),Little Bright Eyes,Hairy Root (Tdci),CRA_AQ,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AQ,Hairy Root (TDCi),22866829,35
+SRP005953,SRS173826,SRR122257,Catharanthus roseus Wild Type Hairy Root RNA-Seq (CRA_AS),Little Bright Eyes,Hairy Root (Wt),CRA_AS,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AS,Hairy Root (Wt),25316070,35
+SRP055543,SRS858189,SRR1820233,"Catharanthus roseus hairy roots, control replicate",Little Bright Eyes,Hairy Roots,,SINGLE - ,Illumina HiSeq 2500,GUS_4,,,50
+SRP055543,SRS858191,SRR1820238,"Catharanthus roseus hairy roots, control replicate",Little Bright Eyes,Hairy Roots,,SINGLE - ,Illumina HiSeq 2500,GUS_3,,,50
+SRP055543,SRS858216,SRR1820326,"Catharanthus roseus hairy roots, control replicate",Little Bright Eyes,Hairy Roots,,PAIRED -,Illumina HiSeq 2500,GUS_5,,,100
+SRP005953,SRS173820,SRR122252,Catharanthus roseus Immature Leaf RNA-Seq (CRA_AN),Little Bright Eyes,Immature Leaf,CRA_AN,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AN,Immature leaf,29918941,35
+SRP008096,SRS260007,SRR342017,Transcriptome analysis of the Catharanthus roseus  leaf.,NA,Leaf,Library_Illumina_CRO1L1VD_1.1,PAIRED - ,Illumina Genome Analyzer II,Illumina_CRO1L1VD,Leaf,37579479,108
+SRP008096,SRS260008,SRR342019,Transcriptome analysis of the Catharanthus roseus  leaf.,NA,Leaf,Library_Illumina_CROLV1VD_1.1,PAIRED - ,Illumina Genome Analyzer II,Illumina_CROLV1VD,Leaf,32519413,108
+SRP008096,SRS260009,SRR342022,Transcriptome analysis of the Catharanthus roseus  leaf.,NA,Leaf,Library_Illumina_CROAJ1VD_1.1,PAIRED - ,Illumina Genome Analyzer II,Illumina_CROAJ1VD,Leaf,37507020,108
+SRP008096,SRS260010,SRR342023,Transcriptome analysis of the Catharanthus roseus  leaf.,NA,Leaf,Library_Illumina_CROWT1VD_1.1,PAIRED - ,Illumina Genome Analyzer II,Illumina_CROWT1VD,Leaf,38830954,108
+SRP041695,SRS602330,SRR1271857,GSM1379558: Leaf,Prabal,Leaf,NA,PAIRED - ,Illumina HiSeq 2000,GSM1379558,Leaf,59158020,100
+ERP016279,ERS1229296,ERR1512377,New leaf from control plant after 1 week,Apricot Sunstorm,Leaf (1 wk),,PAIRED - ,Illumina HiSeq 2500,Ctrl1wk,,,
+ERP016279,ERS1229294,ERR1512375,Leaves from control plants 24 h,Apricot Sunstorm,Leaves (24hr),,PAIRED - ,Illumina HiSeq 2500,Ctrl24h,,,
+ERP016279,ERS1229289,ERR1512370,Leaves from control plants 6 h,Apricot Sunstorm,Leaves (6hr),,PAIRED - ,Illumina HiSeq 2500,Ctrl6h,,,
+ERP016279,ERS1229291,ERR1512372,Leaves from control plants 8 h,Apricot Sunstorm,Leaves (8hr),,PAIRED - ,Illumina HiSeq 2500,Ctrl8h,,,
+SRP005953,SRS173819,SRR122251,Catharanthus roseus Mature Leaf RNA-Seq (CRA_AM),Little Bright Eyes,Mature Leaf,CRA_AM,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AM,Mature leaf,25325632,35
+SRP005953,SRS173822,SRR122254,Catharanthus roseus Root RNA-Seq (CRA_AP),Little Bright Eyes,Root,CRA_AP,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AP,Root,30896527,35
+SRP041695,SRS602331,SRR1271858,GSM1379559: Root,Prabal,Root,NA,PAIRED - ,Illumina HiSeq 2000,GSM1379559,Root,54987554,100
+SRP005953,SRS173811,SRR122243,Catharanthus roseus Sterile Seedlings RNA-Seq (CRA_AE),Little Bright Eyes,Seedlings,CRA_AE,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AE,Sterile seedlings,26797845,35
+SRP005953,SRS173812,SRR122244,Catharanthus roseus Sterile Seedlings RNA-Seq (CRA_AF),Little Bright Eyes,Seedlings,CRA_AF,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AF,MJ 6uM 12d,28785703,35
+SRP005953,SRS173813,SRR122245,Catharanthus roseus Sterile Seedlings RNA-Seq (CRA_AG),Little Bright Eyes,Seedlings,CRA_AG,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AG,Sterile seedlings,30972803,35
+SRP095740,SRS1881642,SRR5133630,"Catharanthus roseus seedlings, CK_3 (control?",Albus,Seedlings,,PAIRED - ,Illumina HiSeq 2000,,,,
+SRP095740,SRS1881643,SRR5133631,"Catharanthus roseus seedlings, CK_2 (control?)",Albus,Seedlings,,PAIRED - ,Illumina HiSeq 2000,,,,
+SRP095740,SRS1881646,SRR5133634,"Catharanthus roseus seedlings, CK_1 (control?",Albus,Seedlings,,PAIRED - ,Illumina HiSeq 2000,,,,
+SRP017832,SRS383671,SRR646572,Catharanthus roseus shoots control,NA,Shoot,NA,PAIRED - NOMINAL_LENGTH: 100,Illumina HiSeq 2000,C. roseus control shoots,C. roseus control shoots,15380068,100
+SRP005953,SRS173821,SRR122253,Catharanthus roseus Stem RNA-Seq (CRA_AO),Little Bright Eyes,Stem,CRA_AO,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AO,Stem,28903929,35

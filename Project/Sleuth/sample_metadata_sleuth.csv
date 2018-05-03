@@ -1,0 +1,6 @@
+﻿SRP,sample accession,run accession,title,cv,library name,library layout,instrument model,sample alias,description,Run read count,Read length
+SRP005953,SRS173807,SRR122239,Catharanthus roseus Flowers RNA-Seq (CRA_AA),Little Bright Eyes,CRA_AA,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AA,Flowers,31645190,35
+SRP005953,SRS173819,SRR122251,Catharanthus roseus Mature Leaf RNA-Seq (CRA_AM),Little Bright Eyes,CRA_AM,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AM,Mature leaf,25325632,35
+SRP005953,SRS173820,SRR122252,Catharanthus roseus Immature Leaf RNA-Seq (CRA_AN),Little Bright Eyes,CRA_AN,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AN,Immature leaf,29918941,35
+SRP005953,SRS173821,SRR122253,Catharanthus roseus Stem RNA-Seq (CRA_AO),Little Bright Eyes,CRA_AO,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AO,Stem,28903929,35
+SRP005953,SRS173822,SRR122254,Catharanthus roseus Root RNA-Seq (CRA_AP),Little Bright Eyes,CRA_AP,SINGLE - ,Illumina Genome Analyzer II,CRA_S_AP,Root,30896527,35

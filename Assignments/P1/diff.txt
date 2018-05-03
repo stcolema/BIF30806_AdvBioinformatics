@@ -1,0 +1,39 @@
+3a4,5
+> Name: Stephen Coleman
+> Student Number: 940309-160-050
+20c22
+<         if not line.stripit():
+---
+>         if not line.strip():
+26c28
+<             seqs[label] += line.strip()[1:]
+---
+>             seqs[label] += line.strip() # This was [1:]
+40c42
+<     for label, seq in seqs.items()
+---
+>     for label, seq in seqs.items():
+45c47
+<         for i in range(len(seq)-kmer_size):
+---
+>         for i in range(len(seq)-kmer_size + 1):
+74c76
+<         print(k, v)
+---
+>             print(k, v)
+85c87
+<     cmd = 'jellyphish count -m {} -s 1000000 -o {} {}'\
+---
+>     cmd = 'jellyfish count -m {} -s 1000000 -o {} {}'\
+102c104
+<     kmers = extract_kmers(dna_seqs, skip_unknown=True, k=14)
+---
+>     kmers = extract_kmers(dna_seqs, skip_unknown=True, k=kmer_len)
+105d106
+<     jelly_out = run_jellyfish(inp_fn, kmer_size=kmer_len)
+107,108c108,109
+<     print(str(jelly_out,'utf-8'))
+< 
+---
+>     jelly_out = run_jellyfish(inp_fn, kmer_size=kmer_len)
+>     

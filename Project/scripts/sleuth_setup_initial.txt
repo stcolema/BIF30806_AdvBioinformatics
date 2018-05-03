@@ -1,0 +1,7 @@
+# Initial set up of Sleuth - only required once.
+# Please open R in the command line and run these lines.
+# source("http://bioconductor.org/biocLite.R")
+# biocLite("rhdf5")
+# install.packages("devtools")
+# library("devtools")
+# devtools::install_github("pachterlab/sleuth")
